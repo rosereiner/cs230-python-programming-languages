@@ -1,0 +1,5 @@
+program R begin read ( a ) ; begin := + b end end
+program R begin read ( a ) ; begin c + b end end
+program R begin read ( a ) ; begin c := + end end
+
+

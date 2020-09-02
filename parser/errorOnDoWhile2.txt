@@ -1,0 +1,1 @@
+program R begin read ( a ) ; 1 do write ( c) end

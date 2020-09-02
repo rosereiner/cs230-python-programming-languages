@@ -1,0 +1,1 @@
+program A begin read ( b ); while1do write (c)end

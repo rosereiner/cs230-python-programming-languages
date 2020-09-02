@@ -1,0 +1,1 @@
+program roserose begin read ( a , a )
